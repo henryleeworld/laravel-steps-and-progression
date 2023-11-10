@@ -1,4 +1,4 @@
-# Laravel 8 步驟和進度
+# Laravel 10 步驟和進度
 
 引入 mtownsend 的 progress 套件來擴增流程加入多個步驟並使用它們建立進度系統的簡單方法，通過具有表現力的簡單 API 定義步驟，然後讓套件處理繁重的工作。
 
@@ -21,5 +21,5 @@ $ php artisan key:generate
 
 ----
 ## 畫面截圖
-![](https://i.imgur.com/xzzXJCP.png)
+![](https://i.imgur.com/ckW2VDB.png)
 > 追蹤相關處理進度以做為整體進度差異基準
